@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e571a9-2d6c-44a1-80d7-cd30cc8878c7" name="Default Changelist" comment="Primetzhofer&#10;Programm ist fertig">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java" afterPath="$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -368,6 +362,14 @@
       <workItem from="1537711069489" duration="2579000" />
       <workItem from="1537714383475" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="Primetzhofer&#10;Programm ist fertig">
+      <created>1538124562745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538124562745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -407,7 +409,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
